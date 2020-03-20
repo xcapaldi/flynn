@@ -2,7 +2,7 @@
 
 Minimal vim colorscheme
 
-![Example with gruvbox terminal colors](example.png?raw=true "Example with gruvbox colors")↩
+![Example with gruvbox terminal colors](example.png?raw=true "Example with gruvbox colors")
 
 I find most colorschemes to be too colorful which defeats the point of quickly distinguishing key terms in your code.
 This theme attempts to cut down on the menagerie of colors and only highlight key terms in a yellows and blues which should be colorblind friendly.
